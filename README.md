@@ -1,5 +1,5 @@
 # How to Perform Interactions in the React Diagram Component
-A quick-start project that shows  how to interact with the Syncfusion React Diagram Component. Learn about various interactions such as selection, dragging, resizing, rotating nodes, editing texts, deletion, and how to restrict interactions. Also learn how to perform zooming, panning, and undo-redo operations.  
+A quick-start project that shows  how to interact with the Syncfusion&reg; React Diagram Component. Learn about various interactions such as selection, dragging, resizing, rotating nodes, editing texts, deletion, and how to restrict interactions. Also learn how to perform zooming, panning, and undo-redo operations.  
 
 The React Diagram is a feature-rich library for creating, visualizing, and editing interactive diagrams. It lets users create flowcharts, organizational charts, mind maps, and BPMN charts using code or a visual interface.
 In this visualization tool, graphical objects are represented as nodes, providing flexibility and easy manipulation on the diagram page. 
